@@ -1,13 +1,8 @@
 import React from 'react';
-import AddTodo from './AddTodo';
-import TodoList from './TodoList';
-import VisButtons from './VisButtons';
 
 const App = () => (
   <div>
-    <AddTodo />
-    <TodoList />
-    <VisButtons />
+    <h1>hey</h1>
   </div>
 )
 
