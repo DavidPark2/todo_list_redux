@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/DavidPark2/todo_list_redux/issues"
   },
-  "homepage": "https://github.com/DavidPark2/todo_list_redux#readme"
+  "homepage": "https://github.com/DavidPark2/todo_list_redux#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0"
+  }
 }
