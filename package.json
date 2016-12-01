@@ -1,0 +1,19 @@
+{
+  "name": "todo_list_redux",
+  "version": "1.0.0",
+  "description": "Practicing redux by making a todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidPark2/todo_list_redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidPark2/todo_list_redux/issues"
+  },
+  "homepage": "https://github.com/DavidPark2/todo_list_redux#readme"
+}
